@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "66ABB892-5A55-4A83-95D3-F07F21BBC2D4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B89F2191-A465-44E0-BF60-5D58DF966116"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tipsy/Controllers/CalculatorViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "CalculatorViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B89F2191-A465-44E0-BF60-5D58DF966116 - fa645c55b83353a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.CalculatorViewController.zeroPctButton.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdulrhman/Courses/Udemy/Swift/Section%2012/Tipsy-iOS13/Tipsy/Controllers/CalculatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "B89F2191-A465-44E0-BF60-5D58DF966116 - d5b2dc164aeda3b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.CalculatorViewController.zeroPctButton.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdulrhman/Courses/Udemy/Swift/Section%2012/Tipsy-iOS13/Tipsy/Controllers/CalculatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "B89F2191-A465-44E0-BF60-5D58DF966116 - 3a6f71d612d0b7a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.CalculatorViewController.zeroPctButton.modify : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdulrhman/Courses/Udemy/Swift/Section%2012/Tipsy-iOS13/Tipsy/Controllers/CalculatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "B89F2191-A465-44E0-BF60-5D58DF966116 - 7e4ddab70acba41e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.CalculatorViewController.zeroPctButton.modify : Swift.Optional&lt;__C.UIButton&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdulrhman/Courses/Udemy/Swift/Section%2012/Tipsy-iOS13/Tipsy/Controllers/CalculatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "B89F2191-A465-44E0-BF60-5D58DF966116 - ecddfcb1d9863735"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.CalculatorViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Tipsy.CalculatorViewController"
+                  moduleName = "Tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdulrhman/Courses/Udemy/Swift/Section%2012/Tipsy-iOS13/Tipsy/Controllers/CalculatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "B89F2191-A465-44E0-BF60-5D58DF966116 - 7820a4e879ce5fce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipsy.CalculatorViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Tipsy.CalculatorViewController&gt;"
+                  moduleName = "Tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdulrhman/Courses/Udemy/Swift/Section%2012/Tipsy-iOS13/Tipsy/Controllers/CalculatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
